@@ -1,2 +1,2 @@
 # MyAwesomeApp
-Sample
+Sample Project
